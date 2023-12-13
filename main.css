@@ -1,0 +1,49 @@
+hmtl, body{
+height : 100%;
+}
+
+pre {
+  font-size:30px;
+  display:block;
+  width: 85vw;
+  height: 85vh;
+
+}
+h2{
+background-color: rgb(100,150,190);
+background-image :url('https://upload.wikimedia.org/wikipedia/en/9/96/SatoruGojomanga.png');
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size:cover;
+
+border: 3px solid black;
+margin:20px;
+padding :90px;
+
+text-align:center;
+}
+
+h1{
+font-family: monospace;
+margin-left:50px;
+margin-right:50px;
+}
+h3{
+     color: rgb(205,100,200);
+}
+th, tr,td{
+    border: 1px solid black;
+    border-collapse:collapse;
+}
+th,td{
+
+    border-radius: 8px;
+    padding: 10px;
+    border-style: dashed;
+    border-color: black;
+}
+tr:hover{
+background-color:#D699EE;
+}
+
+
